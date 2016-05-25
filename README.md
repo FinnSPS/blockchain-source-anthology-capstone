@@ -1,2 +1,2 @@
-# blockchain-source-anthology-capstone
-My Capstone Project
+# Blockchain Source Anthology
+## Welcome to my Capstone Project
